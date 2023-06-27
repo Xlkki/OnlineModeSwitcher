@@ -1,0 +1,5 @@
+name: OnlineModeSwitcher
+version: '${project.version}'
+main: ru.xikki.plugins.onlinemodeswitcher.OnlineModeSwitcher
+depend: [ProtocolLib]
+api-version: 1.19
